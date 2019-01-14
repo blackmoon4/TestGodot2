@@ -12,4 +12,28 @@ texture = ExtResource( 1 )
 position = Vector2( 119, 103 )
 texture = ExtResource( 1 )
 
+[node name="icon2" type="Sprite" parent="." index="1"]
+
+position = Vector2( 298.25, 33.0189 )
+rotation = -0.676897
+texture = ExtResource( 1 )
+
+[node name="icon3" type="Sprite" parent="." index="2"]
+
+position = Vector2( 281.061, 168.07 )
+rotation = -0.676897
+texture = ExtResource( 1 )
+
+[node name="icon4" type="Sprite" parent="." index="3"]
+
+position = Vector2( -27.1008, 166.842 )
+rotation = -0.676897
+texture = ExtResource( 1 )
+
+[node name="icon5" type="Sprite" parent="." index="4"]
+
+position = Vector2( 93.2175, 214.724 )
+rotation = -0.676897
+texture = ExtResource( 1 )
+
 
